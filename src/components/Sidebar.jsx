@@ -4,10 +4,10 @@ import { TooltipComponent } from "@syncfusion/ej2-react-popups";
 
 import { useStateContext } from "../context/ContextProvider";
 
+import { links } from "../data/dummy";
+
 import { SiShopware } from "react-icons/si";
 import { MdOutlineCancel } from "react-icons/md";
-
-import { links } from "../data/dummy";
 
 const Sidebar = () => {
   const { activeMenu, setActiveMenu } = useStateContext();
