@@ -11,6 +11,8 @@ import { BsChatLeft } from "react-icons/bs";
 import { RiNotification3Line } from "react-icons/ri";
 import { MdKeyboardArrowDown } from "react-icons/md";
 
+const handleClick = (str) => console.log(str);
+
 const NavButton = ({ title, customFunction, icon, color, dotColor }) => (
   <TooltipComponent content={title} position="BottomCenter">
     <button
@@ -42,6 +44,28 @@ const Navbar = () => {
         color="blue"
         icon={<AiOutlineMenu />}
       />
+      <div className="flex">
+        <NavButton
+          title="Cart"
+          customFunction={() => handleClick("cart")}
+          color="blue"
+          icon={<FiShoppingCart />}
+        />
+        <NavButton
+          title="Chat"
+          dotColor="#03C9D7"
+          customFunction={() => handleClick("chat")}
+          color="blue"
+          icon={<BsChatLeft />}
+        />
+        <NavButton
+          title="Notifications"
+          dotColor="#03C9D7"
+          customFunction={() => handleClick("notification")}
+          color="blue"
+          icon={<RiNotification3Line />}
+        />
+      </div>
     </div>
   );
 };
