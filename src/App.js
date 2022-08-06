@@ -63,7 +63,7 @@ const App = () => {
               <Navbar />
             </div>
 
-            <div>
+            <div className="component-visible">
               <Routes>
                 {/* Dashboard */}
                 <Route path="/" element={<Ecommerce />} />
