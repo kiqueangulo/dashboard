@@ -64,6 +64,8 @@ const App = () => {
             </div>
 
             <div className="component-visible">
+              <ThemeSettings />
+
               <Routes>
                 {/* Dashboard */}
                 <Route path="/" element={<Ecommerce />} />
