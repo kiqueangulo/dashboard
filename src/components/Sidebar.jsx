@@ -1,16 +1,15 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
 import { TooltipComponent } from "@syncfusion/ej2-react-popups";
-
 import { useStateContext } from "../context/ContextProvider";
-
-import { links } from "../data/dummy";
 
 import { SiShopware } from "react-icons/si";
 import { MdOutlineCancel } from "react-icons/md";
+import { links } from "../data/dummy";
 
 const Sidebar = () => {
-  const { activeMenu, setActiveMenu, screenSize } = useStateContext();
+  const { activeMenu, setActiveMenu, screenSize, currentColor } =
+    useStateContext();
 
   const handleCLoseSidebar = () => {
     if (activeMenu && screenSize <= 900) setActiveMenu(false);
@@ -54,6 +53,9 @@ const Sidebar = () => {
                     to={`/${link.name}`}
                     key={link.name}
                     onClick={handleCLoseSidebar}
+                    style={({ isActive }) => ({
+                      backgroundColor: isActive ? currentColor : "",
+                    })}
                     className={({ isActive }) =>
                       isActive ? activeLink : normalLink
                     }
