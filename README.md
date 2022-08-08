@@ -159,7 +159,7 @@ Display information on hover.
 <br />
 <a href="https://www.syncfusion.com/"><img alt="Syncfusion logo" src="public\readme\syncfusion-logo.png" width="110px" /></a>
 
-<a href="https://tailwindcss.com/"><img alt="Tailwind logo" src="public\readme\tailwind-logo.svg" width="100px" /></a>
+<a href="https://tailwindcss.com/"><img alt="Tailwind logo" src="public\readme\tailwind-logo.png" width="100px" /></a>
 
 ### Future Implementations
 
