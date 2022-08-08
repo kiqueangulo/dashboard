@@ -13,8 +13,8 @@ CONTENT SHORTCUTS
 - [Description](#description)
 - [Sections](#sections)
 - [Features](#features)
-
-* [Technologies Used](#technologies-used)
+- [Technologies Used](#technologies-used)
+- [Future Implementations](#future-implementations)
 
 ### Description
 
@@ -153,8 +153,16 @@ Display information on hover.
 
 ### Technologies Used
 
+<br />
 <a href="https://reactjs.org/"><img alt="React.js logo" src="public\readme\react-logo.png" width="90px" /></a>
 
+<br />
 <a href="https://www.syncfusion.com/"><img alt="Syncfusion logo" src="public\readme\syncfusion-logo.png" width="110px" /></a>
 
 <a href="https://tailwindcss.com/"><img alt="Tailwind logo" src="public\readme\tailwind-logo.svg" width="100px" /></a>
+
+### Future Implementations
+
+- Make all the icons on the navbar functional and show their own component.
+- Connect with a backend (after I build it), so it can make real operation on a database.
+- Adjust specific places of components fot the dark mode to work properly.
