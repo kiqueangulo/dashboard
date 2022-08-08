@@ -8,13 +8,15 @@
 
 ## This is a broswer dashboard for charts analysis, product orders and sales organization, and team workflow. All in one.
 
-CONTENT SHORTCUTS
+**CONTENT SHORTCUTS**
 
 - [Description](#description)
 - [Sections](#sections)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Future Implementations](#future-implementations)
+
+---
 
 ### Description
 
@@ -24,8 +26,6 @@ I wanted to improve my React skills that I learned in bootcamp, and this applica
 
 This project was possible thanks to Adrian Hajdin a.k.a.
 JavaScript Mastery ([Youtube Channel](https://www.youtube.com/c/JavaScriptMastery), [GitHub](https://github.com/adrianhajdin)), whose videos have helped me throughout the programming learning curve.
-
----
 
 ### Sections
 
