@@ -115,7 +115,7 @@ Choosing purple.
 
 ##### Sort & Delete
 
-<img alt="A sorted table" src="public\readme\sort.PNG" width="410px" /> <img alt="Items selected to delete" src="public\readme\select-to-delete.PNG" width="430px" />
+<img alt="A sorted table" src="public\readme\sort.PNG" width="400px" /> <img alt="Items selected to delete" src="public\readme\select-to-delete.PNG" width="410px" />
 
 ##### Search & Pagination
 
