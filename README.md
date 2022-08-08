@@ -101,7 +101,7 @@ In-depth data analysis and display information is another perk that app provides
 
 Choosing purple.
 
-<img alt="Theme settings on the side" src="public\readme\theme-settings.PNG" width="280px" /> <img alt="Theme changed to purple" src="public\readme\theme-settings-purple.PNG" width="280px" />
+<img alt="Theme settings on the side" src="public\readme\theme-settings.PNG" width="402px" /> <img alt="Theme changed to purple" src="public\readme\theme-settings-purple.PNG" width="402px" />
 
 ##### Toggle Dark & Light Mode
 
@@ -111,7 +111,7 @@ Choosing purple.
 
 ##### Edit Iformation
 
-<img alt="Editing a name" src="public\readme\tipe-editing.PNG" width="220px" /> <img alt="Edited a name" src="public\readme\edited.PNG" width="250px" />
+<img alt="Editing a name" src="public\readme\tipe-editing.PNG" width="400px" /> <img alt="Edited a name" src="public\readme\edited.PNG" width="405px" />
 
 ##### Sort & Delete
 
@@ -119,4 +119,4 @@ Choosing purple.
 
 ##### Search & Pagination
 
-<img alt="A table showing results from search the name Nancy" src="public\readme\search-pagination.PNG" width="400px" />
+<img alt="A table showing results from search the name Nancy" src="public\readme\search-pagination.PNG" width="500px" />
