@@ -8,6 +8,8 @@
 
 ## This is a broswer dashboard for charts analysis, product orders and sales organization, and team workflow. All in one.
 
+## Try the App [here](https://reactsyncfusiondashboard.netlify.app/)!
+
 **CONTENT SHORTCUTS**
 
 - [Description](#description)
