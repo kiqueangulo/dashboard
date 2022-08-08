@@ -8,11 +8,21 @@
 
 ## This is a broswer dashboard for charts analysis, product orders and sales organization, and team workflow. All in one.
 
+CONTENT SHORTCUTS
+
+- [Description](#description)
+- [Sections](#sections)
+- [Features](#features)
+
+* [Technologies Used](#technologies-used)
+
 ### Description
 
 Welcome to DASHBOARD! This a frontend browser application the users will be able to manage expenses and revenues, keep track of employees, customers, and product orders of their business, and display data in several types of charts for different analysis.
 
-I wanted to improve my React skills that I learned in bootcamp, and this application fitted that goal in different aspects of development. This project was possible thanks to Adrian Hajdin a.k.a.
+I wanted to improve my React skills that I learned in bootcamp, and this application fitted that goal in different aspects of development.
+
+This project was possible thanks to Adrian Hajdin a.k.a.
 JavaScript Mastery ([Youtube Channel](https://www.youtube.com/c/JavaScriptMastery), [GitHub](https://github.com/adrianhajdin)), whose videos have helped me throughout the programming learning curve.
 
 ---
@@ -140,3 +150,11 @@ Display information on hover.
 #### Responsiveness
 
 <img alt="App shown in iPad view" src="public\readme\response1.PNG" width="400px" /> <img alt="App shown in iPhone 12 view" src="public\readme\response2.PNG" width="410px" />
+
+### Technologies Used
+
+<a href="https://reactjs.org/"><img alt="React.js logo" src="public\readme\react-logo.png" width="90px" /></a>
+
+<a href="https://www.syncfusion.com/"><img alt="Syncfusion logo" src="public\readme\syncfusion-logo.png" width="110px" /></a>
+
+<a href="https://tailwindcss.com/"><img alt="Tailwind logo" src="public\readme\tailwind-logo.svg" width="100px" /></a>
