@@ -8,14 +8,14 @@
 
 ## This is a broswer dashboard for charts analysis, product orders and sales organization, and team workflow. All in one.
 
----
-
 ### Description
 
 Welcome to DASHBOARD! This a frontend browser application the users will be able to manage expenses and revenues, keep track of employees, customers, and product orders of their business, and display data in several types of charts for different analysis.
 
 I wanted to improve my React skills that I learned in bootcamp, and this application fitted that goal in different aspects of development. This project was possible thanks to Adrian Hajdin a.k.a.
 JavaScript Mastery ([Youtube Channel](https://www.youtube.com/c/JavaScriptMastery), [GitHub](https://github.com/adrianhajdin)), whose videos have helped me throughout the programming learning curve.
+
+---
 
 ### Sections
 
@@ -67,30 +67,56 @@ Task and time managemen, team workflow alongside with taking notes and choosing 
 
 In-depth data analysis and display information is another perk that app provides. With several types of charts to choose from, inflection points, trends, distribution patterns, and many other characteristics are more visible for the user in this section. Those charts are as follow.
 
-#### Line
+##### Line
 
 <img alt="Line chart from section Charts" src="public\readme\line.PNG" width="500px" />
 
-#### Area
+##### Area
 
 <img alt="Area chart from section Charts" src="public\readme\area.PNG" width="500px" />
 
-#### Bar
+##### Bar
 
 <img alt="Bar chart from section Charts" src="public\readme\bar.PNG" width="500px" />
 
-#### Pie
+##### Pie
 
 <img alt="Pie chart from section Charts" src="public\readme\pie.PNG" width="500px" />
 
-#### Color-Mapping
+##### Color-Mapping
 
 <img alt="Color-Mapping chart from section Charts" src="public\readme\color-mapping.PNG" width="500px" />
 
-#### Pyramid
+##### Pyramid
 
 <img alt="Pyramid chart from section Charts" src="public\readme\pyramid.PNG" width="500px" />
 
-#### Stacked
+##### Stacked
 
 <img alt="Stacked chart from section Charts" src="public\readme\stacked.PNG" width="500px" />
+
+### Features
+
+#### Theme Settings
+
+Choosing purple.
+
+<img alt="Theme settings on the side" src="public\readme\theme-settings.PNG" width="280px" /> <img alt="Theme changed to purple" src="public\readme\theme-settings-purple.PNG" width="280px" />
+
+##### Toggle Dark & Light Mode
+
+<img alt="App on dark mode" src="public\readme\dark-mode.PNG" width="450px" />
+
+#### Tables
+
+##### Edit Iformation
+
+<img alt="Editing a name" src="public\readme\tipe-editing.PNG" width="220px" /> <img alt="Edited a name" src="public\readme\edited.PNG" width="250px" />
+
+##### Sort & Delete
+
+<img alt="A sorted table" src="public\readme\sort.PNG" width="230px" /> <img alt="Items selected to delete" src="public\readme\select-to-delete.PNG" width="250px" />
+
+##### Search & Pagination
+
+<img alt="A table showing results from search the name Nancy" src="public\readme\search-pagination.PNG" width="400px" />
