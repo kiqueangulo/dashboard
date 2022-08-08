@@ -512,7 +512,7 @@ export const employeesGrid = [
 
 export const links = [
   {
-    title: "Dashboard",
+    title: "Home",
     links: [
       {
         name: "ecommerce",
