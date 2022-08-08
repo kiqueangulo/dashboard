@@ -120,3 +120,9 @@ Choosing purple.
 ##### Search & Pagination
 
 <img alt="A table showing results from search the name Nancy" src="public\readme\search-pagination.PNG" width="500px" />
+
+#### Customizable
+
+Edit events in _Calendar_.
+
+<img alt="Choose an event" src="public\readme\choose-event.PNG" width="400px" /> <img alt="Edit the chosen event" src="public\readme\edit-event.PNG" width="410px" />
