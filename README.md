@@ -126,3 +126,17 @@ Choosing purple.
 Edit events in _Calendar_.
 
 <img alt="Choose an event" src="public\readme\choose-event.PNG" width="400px" /> <img alt="Edit the chosen event" src="public\readme\edit-event.PNG" width="410px" />
+
+#### Charts
+
+Select the data you want to be displayed.
+
+<img alt="Bar charts" src="public\readme\all-data.PNG" width="400px" /> <img alt="Bar charts filtered" src="public\readme\selected-data.PNG" width="410px" />
+
+Display information on hover.
+
+<img alt="Hover over stacked chart" src="public\readme\hover-stacked.PNG" width="400px" /> <img alt="Hover over pie chart" src="public\readme\hover-pie.PNG" width="410px" />
+
+#### Responsiveness
+
+<img alt="App shown in iPad view" src="public\readme\response1.PNG" width="400px" /> <img alt="App shown in iPhone 12 view" src="public\readme\response2.PNG" width="410px" />
